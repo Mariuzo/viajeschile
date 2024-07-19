@@ -38,9 +38,6 @@ h3{
 }
 
 
-
-
-
 .card{
     background-color: deepskyblue;
 }
@@ -60,7 +57,7 @@ h3{
 footer{
     display: flex;
     justify-content: center;
-    background-color: DeepSkyBlue;
+    background-color: #333333;
    
 
 }
